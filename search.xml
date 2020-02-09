@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>测试2</title>
+    <url>/2020/02/08/%E6%B5%8B%E8%AF%952/</url>
+    <content><![CDATA[<p>………..</p>
+]]></content>
+      <categories>
+        <category>web</category>
+      </categories>
+      <tags>
+        <tag>第二天</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>测试1</title>
+    <url>/2020/02/08/%E6%B5%8B%E8%AF%951/</url>
+    <content><![CDATA[<p>测试</p>
+]]></content>
+      <categories>
+        <category>web</category>
+      </categories>
+      <tags>
+        <tag>第一天</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/02/08/hello-world/</url>
+    <content><![CDATA[<p>…</p>
+]]></content>
+      <categories>
+        <category>web</category>
+      </categories>
+  </entry>
+</search>
